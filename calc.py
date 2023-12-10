@@ -9,8 +9,10 @@ def exec_func():
     t_out_1.insert(END, result)
 
 window = Tk()
+window.title("Calc_v2")
 
 en_in_1 = StringVar()
+
 en1 = Entry(window, textvariable = en_in_1)
 en1.grid(row = 0, column =1)
 

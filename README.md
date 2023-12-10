@@ -7,6 +7,7 @@ This is a simple arithmetic calculator application built using Python's Tkinter 
 - Accepts arithmetic expressions separated by spaces. For example: `12 + 3`, `8 - 2`, `5 * 4`, etc.
 - Supports addition (+), subtraction (-), multiplication (*), and division (/) operations.
 - Provides basic input validation for correct expression format.
+- Run by just executing the calc.py
 
 ## Dependencies
 
