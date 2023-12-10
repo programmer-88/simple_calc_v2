@@ -5,8 +5,8 @@ from engine.printer import *
 
 def exec_func():
     t_out_1.delete(1.0, "end")
-    print(arithmetic_check(en_in_1.get()))
-    t_out_1.insert(END, en_in_1.get())
+    result = arithmetic_check(en_in_1.get())
+    t_out_1.insert(END, result)
 
 window = Tk()
 
