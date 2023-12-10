@@ -31,7 +31,7 @@ This is a simple arithmetic calculator application built using Python's Tkinter 
 
 ## Screenshots
 
-![App Screenshot](/images/Screenshot%20from%202023-12-10%2003-17-44.png)
+![App Screenshot](/images/screenshot.png)
 
 ## Notes
 
