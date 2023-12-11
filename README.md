@@ -20,7 +20,7 @@ This is a simple arithmetic calculator application built using Python's Tkinter 
 2. Clone or download this repository to your local machine.
 3. Open a terminal or command prompt and navigate to the project directory.
 4. Run the application using the command: `python3 calc.py` or `python calc.py`.
-5. Enter arithmetic expressions in the specified format (e.g., `12 + 3`) in the input field.
+5. Enter arithmetic expressions in the specified format (e.g., `12 + 3`) in the input field on your screen.
 6. Press the 'Execute' button to see the result in the output field.
 7. To clear the output field, press the 'Clear' button.
 
